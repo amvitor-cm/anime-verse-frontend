@@ -1,4 +1,4 @@
-![Website Preview](https://raw.githubusercontent.com/amvitor-cm/Proof-of-skill-dapps/main/anime.png)
+![Website Preview](https://raw.githubusercontent.com/amvitor-cm/anime-verse-frontend/main/anime-1.png)
 
 
 # AnimeVerse - Interactive Portfolio Project
