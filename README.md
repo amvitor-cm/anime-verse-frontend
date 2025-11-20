@@ -1,6 +1,6 @@
 # AnimeVerse - Interactive Portfolio Project
 
-A cutting-edge, fully responsive website showcasing advanced frontend development skills with immersive 3D animations, interactive UI/UX elements, and modern web technologies.
+A fully responsive website showcasing advanced frontend development skills with immersive 3D animations, interactive UI/UX elements, and modern web technologies.
 
 **Live Demo**: [https://anime-verse-lovat.vercel.app/](https://anime-verse-lovat.vercel.app/)
 
