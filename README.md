@@ -3,7 +3,7 @@
 
 # AnimeVerse - Interactive Portfolio Project
 
-A fully responsive website showcasing advanced frontend development skills with immersive 3D animations, interactive UI/UX elements, and modern web technologies.
+A fully responsive frontend-only website showcasing advanced frontend development skills with immersive 3D animations, interactive UI/UX elements, and modern web technologies.
 
 **Live Demo**: [https://anime-verse-lovat.vercel.app/](https://anime-verse-lovat.vercel.app/)
 
@@ -115,9 +115,12 @@ This project demonstrates mastery in:
 4. **Cross-Platform Development** - Responsive design principles and browser compatibility
 5. **Modern CSS Techniques** - Grid systems, custom properties, and advanced animations
 
-## Contact
 
-For technical inquiries about the implemented features or to discuss similar projects, please reach out through appropriate channels.
+## Contact
+- If you’d like access to the full source code for this project, feel free to reach out:
+
+- Email: amvitor.cm@gmail.com
+- Telegram: @amvior
 
 ---
 
