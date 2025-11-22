@@ -60,7 +60,7 @@ animeverse-website/
 ├── public/
 │   ├── index.html          # [PRIVATE] - Main HTML structure
 │   ├── styles.css          # [PRIVATE] - Complete styling system
-│   └── script.js           # Public JavaScript implementation
+│   └── script.js           # [PRIVATE] JavaScript implementation
 ├── assets/                 # [PRIVATE] - Media and resource files
 └── README.md
 ```
