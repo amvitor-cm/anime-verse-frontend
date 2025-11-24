@@ -1,7 +1,7 @@
 ![Website Preview](https://raw.githubusercontent.com/amvitor-cm/anime-verse-frontend/main/anime-1.png)
 
 
-# AnimeVerse - Interactive Portfolio Project
+# AnimeVerse - Interactive Portfolio Project 
 
 A fully responsive frontend-only website showcasing advanced frontend development skills with immersive 3D animations, interactive UI/UX elements, and modern web technologies.
 
